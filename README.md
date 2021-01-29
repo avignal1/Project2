@@ -32,10 +32,10 @@
 ![Statistics](Resources/images/Statistics.PNG)
 - Plot show loss getting lesser in Trainning
 
-![LossFunctionPlot](Resources/images/LossFunctionPlot.PNG)
+![LossFunctionPlot](Resources/images/LossFunctionPlot.png)
 - Plot show loss between Training & Testing
 
-![TrainvsTest](Resources/images/TrainvsTest.PNG)
+![TrainvsTest](Resources/images/TrainvsTest.png)
 - Actual popularity vs Predited popularity from model is closer
 
 ![ActualvsPredition](Resources/images/ActualvsPredition.PNG)
