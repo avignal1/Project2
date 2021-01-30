@@ -39,3 +39,27 @@
 - Actual popularity vs Predited popularity from model is closer
 
 ![ActualvsPredition](Resources/images/ActualvsPredition.PNG)
+
+### Model Comparison - Classification Types
+- Ran our test/train data for four classification type models:
+    1. Deep Learning
+    2. Gradient Boosting
+    3. Decision Trees
+    4. Random Forest
+
+- Ran summary statistics to receive an accuracy score for each model
+
+![ModelComparison](Resources/images/Model_Comparison.png)
+- Most accurate model was Random Forest
+
+### Model Comparison - Scaler Types
+- Similarly to the step above, ran our test/train data for four Scaler Types:
+    1. MinMax
+    2. Standard
+    3. RobustScaler
+    4. QuantileTransformer
+
+- Ran summary statistics to receive an accuracy score for each scaler
+
+![ScalerComparison](Resources/images/ScalerComparison.png)
+- Most accurate model was StandardScaler
