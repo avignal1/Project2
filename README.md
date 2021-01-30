@@ -49,7 +49,7 @@
 
 - Ran summary statistics to receive an accuracy score for each model
 
-![ModelComparison](Resources/images/Model_Comparison.png)
+![ModelComparison](Resources/images/Model_Comparison.PNG)
 - Most accurate model was Random Forest
 
 ### Model Comparison - Scaler Types
@@ -61,5 +61,5 @@
 
 - Ran summary statistics to receive an accuracy score for each scaler
 
-![ScalerComparison](Resources/images/ScalerComparison.png)
+![ScalerComparison](Resources/images/ScalerComparison.PNG)
 - Most accurate model was StandardScaler
