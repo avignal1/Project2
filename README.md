@@ -63,3 +63,11 @@
 
 ![ScalerComparison](Resources/images/ScalerComparison.PNG)
 - Most accurate model was StandardScaler
+
+## Predictions
+- Created a revenue prediction widget to utilize our model
+- Key audio features can be adjusted by sliders
+- Deep learning model is executed by a button press
+- The popularity score is converted to a dollar amount and displayed
+- Musicians and record producers could utilize this tool to fine tune
+  audio features and maximize streaming revenue from Spotify
