@@ -64,7 +64,7 @@
 ![ScalerComparison](Resources/images/ScalerComparison.PNG)
 - Most accurate model was StandardScaler
 
-## Predictions
+### Predictions
 - Created a revenue prediction widget to utilize our model
 - Key audio features can be adjusted by sliders
 - Deep learning model is executed by a button press
