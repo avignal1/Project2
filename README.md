@@ -72,4 +72,4 @@
 - Musicians and record producers could utilize this tool to fine tune
   audio features and maximize streaming revenue from Spotify
   
-  ![RevenueProjectionWidget](Resources/Demo.gif)
+  ![RevenueProjectionWidget](Resources/images/Demo1.gif)
