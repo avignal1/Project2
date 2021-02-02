@@ -71,3 +71,5 @@
 - The popularity score is converted to a dollar amount and displayed
 - Musicians and record producers could utilize this tool to fine tune
   audio features and maximize streaming revenue from Spotify
+  
+  ![RevenueProjectionWidget](Resources/Demo.gif)
