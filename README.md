@@ -79,6 +79,19 @@
 ![ScalerComparison](Resources/images/ScalerComparison.PNG)
 - Most accurate model was StandardScaler
 
+### Relationship between Popularity Rank and Revenue
+- Collected data manually by choosing a sample of 5 songs from each popularity score category
+- Spotify pay-per-stream: up to $0.00437
+- Apple pay-per-stream: up to $0.00735
+
+## Data Observations
+
+The following are some interesting observations that can only be explained by Spotify's secret algorithm for popularity scores.
+- Some songs that have well-known artists but a lesser play count still seem to receive higher popularity scores. Ex: Wabash Cannonball by Johnny Cash - play count 521,601
+- Holiday Music has a much greater # of plays than other songs with the same popularity score. Ex: Let it Snow! Let it Snow! Let it Snow!
+- Multiple songs with the same title (cover music, featuring other artists.)  This was most prevalent with classical music and seasonal or holiday music
+- Multiples of the same songs repeated in different albums/collections - many have different play counts
+
 ### Predictions
 - Created a revenue prediction widget to utilize our model
 - Key audio features can be adjusted by sliders
