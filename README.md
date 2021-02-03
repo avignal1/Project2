@@ -85,6 +85,8 @@
 - Spotify pay-per-stream: up to $0.00437
 - Apple pay-per-stream: up to $0.00735
 
+(Resources/images/spotify_vs_apple_revenue)
+
 ### Data Observations
 
 The following are some interesting observations that can only be explained by Spotify's secret algorithm for popularity scores.
