@@ -85,7 +85,7 @@
 - Spotify pay-per-stream: up to $0.00437
 - Apple pay-per-stream: up to $0.00735
 
-(Resources/images/spotify_vs_apple_revenue)
+![spotify_vs_apple_revenue](Resources/images/spotify_vs_apple_revenue.PNG)
 
 ### Data Observations
 
