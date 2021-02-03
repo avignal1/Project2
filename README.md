@@ -79,12 +79,13 @@
 ![ScalerComparison](Resources/images/ScalerComparison.PNG)
 - Most accurate model was StandardScaler
 
-### Relationship between Popularity Rank and Revenue
+## Relationship between Popularity Rank and Revenue
+
 - Collected data manually by choosing a sample of 5 songs from each popularity score category
 - Spotify pay-per-stream: up to $0.00437
 - Apple pay-per-stream: up to $0.00735
 
-## Data Observations
+### Data Observations
 
 The following are some interesting observations that can only be explained by Spotify's secret algorithm for popularity scores.
 - Some songs that have well-known artists but a lesser play count still seem to receive higher popularity scores. Ex: Wabash Cannonball by Johnny Cash - play count 521,601
