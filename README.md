@@ -90,9 +90,15 @@
 ### Data Observations
 
 The following are some interesting observations that can only be explained by Spotify's secret algorithm for popularity scores.
-- Some songs that have well-known artists but a lesser play count still seem to receive higher popularity scores. Ex: Wabash Cannonball by Johnny Cash - play count 521,601
-- Holiday Music has a much greater # of plays than other songs with the same popularity score. Ex: Let it Snow! Let it Snow! Let it Snow!
+
+- Some songs that have well-known artists but a lesser play count still seem to receive higher popularity scores. 
+Ex: Wabash Cannonball by Johnny Cash - play count 521,601. Other songs with popularity score 40 had 1.6-2.4M plays
+
+- Holiday Music has a much greater # of plays than other songs with the same popularity score. 
+Ex: Let it Snow! Let it Snow! Let it Snow! had 306M plays while others with the same popularity score of 50 had around 6-11M plays
+
 - Multiple songs with the same title (cover music, featuring other artists.)  This was most prevalent with classical music and seasonal or holiday music
+
 - Multiples of the same songs repeated in different albums/collections - many have different play counts
 
 ### Predictions
